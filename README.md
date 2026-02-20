@@ -1,6 +1,6 @@
 # TrabajoVariables1
 
-Este proyecto muestra sobre el uso de las variables, para mostrar comandos, declaraciones de diferentes tipos como String, LocalDate, Short, Byte, Long, Int, Arr, char scanner Integer y Char.
+Este proyecto muestra sobre el uso de las variables, para mostrar comandos, declaraciones de diferentes tipos como String, LocalDate, Short, Byte, Long, Int, Arr, Char, scanner, y Integer.
 
 ## **Pasos para mostrar el uso de variables**
 - Importar el Scanner
