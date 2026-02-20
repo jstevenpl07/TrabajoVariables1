@@ -8,6 +8,7 @@ Este proyecto muestra sobre el uso de las variables, para mostrar comandos, decl
 - Colocar cada variable
 - Demostrar que funciona
 - Colocar Url de la diapositiva
+- Usar datos que requieran L y F
 
 ## El Equipo está compuesto por dos personas:
 - **John Steven Pinzón.**
