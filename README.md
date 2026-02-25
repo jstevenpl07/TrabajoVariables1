@@ -20,4 +20,4 @@ Este proyecto muestra sobre el uso de las variables, para mostrar comandos, decl
 - [Video java #3 Condicionales](https://www.youtube.com/watch?v=6lk0cRlqnTU&t=1s).
 - [Video java #4 Condicionales anidados](https://www.youtube.com/watch?v=ZbuI6P1yLc8).
 - [Link de los videos de java](https://xacarana.com/java.html).
-- [Link Presentación](https://www.canva.com/design/DAHB3fdKrhA/QXK4zBcoZHgbu3-z20I0wQ/edit).
+- [Link Presentación del trabajo](https://www.canva.com/design/DAHB3fdKrhA/QXK4zBcoZHgbu3-z20I0wQ/edit).
