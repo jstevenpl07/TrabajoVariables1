@@ -1,4 +1,4 @@
-# TrabajoVariables1
+# Taller2.1
 
 Este proyecto muestra sobre el uso de las variables, para mostrar comandos, declaraciones de diferentes tipos como String, LocalDate, Short, Byte, Long, Int, Arr, Char, scanner, y Integer.
 
